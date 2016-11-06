@@ -1,0 +1,13 @@
+main .row {
+	padding-bottom: 20px;
+}
+
+.box {
+	height: 300px;
+	border: 1px gray solid;
+}
+
+.text-boxes {
+	position: relative;
+	bottom: 0;
+}
