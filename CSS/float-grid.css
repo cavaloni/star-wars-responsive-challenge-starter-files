@@ -19,13 +19,13 @@
 	clear: both;
 }
 
-.col {
+.col, .col12 {
 	float: left;
 	padding-left: 1.04166666%;
 	padding-right: 1.04166666%;
 }
 
-.col {
+.col, .col-12 {
 	width: 100%;
 	padding: 20px;
 }
@@ -36,4 +36,8 @@
 	.col {
 		width: 33.33%;
 	}
+
+  .col-12 {
+    width: 100%;
+  }
 }
